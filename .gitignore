@@ -11,9 +11,9 @@ wheels/
 .venv
 
 # Ignore all files in the below
-./ipynb_checkpoints
-./doltdb_deprecated
-./main.py
-./earnings
-./.sqlhistory
+.ipynb_checkpoints/
+doltdb_deprecated/
+main.py
+earnings/
+.sqlhistory
 kis_devlp.yaml

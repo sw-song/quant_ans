@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+
+# Virtual environments
+.venv
+
+# Ignore all files in the below
+./ipynb_checkpoints
+./doltdb_deprecated
+./main.py
+./earnings
+./.sqlhistory
+kis_devlp.yaml
